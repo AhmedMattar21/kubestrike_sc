@@ -5,11 +5,11 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/AhmedMattar21/kubestrick?style=social" alt="GitHub Stars">
-    <img src="https://img.shields.io/github/downloads/AhmedMattar21/kubestrick/total" alt="Downloads">
+    <img src="https://img.shields.io/github/stars/AhmedMattar21/kubestrike_sc?style=social" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/downloads/AhmedMattar21/kubestrike_sc/total" alt="Downloads">
     <img src="https://img.shields.io/badge/ansible-automation-blue" alt="Ansible">
     <img src="https://img.shields.io/badge/kubernetes-cluster-blue" alt="Kubernetes">
-    <img src="https://img.shields.io/github/license/AhmedMattar21/kubestrick" alt="License">
+    <img src="https://img.shields.io/github/license/AhmedMattar21/kubestrike_sc" alt="License">
 </p>
 
 
