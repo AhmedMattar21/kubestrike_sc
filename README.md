@@ -61,6 +61,9 @@ ansible-playbook k8s.yml -i targets -k
 This project is licensed under [MIT License](LICENSE).
 
 
+## 📢 **Note**
+
+This repository is a showcase version of the original project. If you are interested in accessing the full version, please feel free to contact us.
 
 
 <h3 align=center> Happy Automating! 🎉 </h3>
